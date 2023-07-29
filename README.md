@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Kabiru Adekunle - [Github](https://github.com/Kahbeer42/AirBnB_clone_v3.git) / [Twitter] (https://twitter.com/olabode_kabiru)
-Arif Arif - [Github](https://github.com/Arif1000000)
+Issah Arif - [Github](https://github.com/Arif1000000)
 
 ## License
 Public Domain. No copy write protection. 
